@@ -1,5 +1,10 @@
 # TippyByTommy
 
+<img width="318" alt="Screen Shot 2019-06-29 at 1 24 00 PM" src="https://user-images.githubusercontent.com/25494410/60389200-6ef4d880-9a72-11e9-9b15-fb7d5246f758.png">
+
+<img width="312" alt="Screen Shot 2019-06-29 at 1 24 41 PM" src="https://user-images.githubusercontent.com/25494410/60389201-774d1380-9a72-11e9-91aa-106c2a19081d.png">
+
+
 Tipping application designed for any and all users!
 
 Project group: Solo
